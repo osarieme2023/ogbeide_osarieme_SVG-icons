@@ -1,0 +1,19 @@
+.hidden{
+    display: none;
+}
+
+h1{
+    color:purple;
+
+}
+
+.lps {
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 50px;
+    display: inline-flex;
+}
+
+
